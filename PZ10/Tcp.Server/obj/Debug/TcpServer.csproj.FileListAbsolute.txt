@@ -1,0 +1,9 @@
+C:\Users\flame\source\repos\PZ10\Tcp.Server\bin\Debug\TcpServer.exe.config
+C:\Users\flame\source\repos\PZ10\Tcp.Server\bin\Debug\TcpServer.exe
+C:\Users\flame\source\repos\PZ10\Tcp.Server\bin\Debug\TcpServer.pdb
+C:\Users\flame\source\repos\PZ10\Tcp.Server\bin\Debug\SomeProject.Library.dll
+C:\Users\flame\source\repos\PZ10\Tcp.Server\bin\Debug\SomeProject.Library.pdb
+C:\Users\flame\source\repos\PZ10\Tcp.Server\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\flame\source\repos\PZ10\Tcp.Server\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\flame\source\repos\PZ10\Tcp.Server\obj\Debug\TcpServer.exe
+C:\Users\flame\source\repos\PZ10\Tcp.Server\obj\Debug\TcpServer.pdb

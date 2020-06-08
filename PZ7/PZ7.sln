@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{E6593A8E-B426-4A05-81B8-31FE4B7C5B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button", "Button\Button.csproj", "{4B477C03-DF89-473D-A377-DA53E6FB4F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6593A8E-B426-4A05-81B8-31FE4B7C5B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6593A8E-B426-4A05-81B8-31FE4B7C5B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6593A8E-B426-4A05-81B8-31FE4B7C5B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6593A8E-B426-4A05-81B8-31FE4B7C5B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B477C03-DF89-473D-A377-DA53E6FB4F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B477C03-DF89-473D-A377-DA53E6FB4F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B477C03-DF89-473D-A377-DA53E6FB4F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B477C03-DF89-473D-A377-DA53E6FB4F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {083F5567-7C08-4B54-BD0F-736D5B512DA6}
+	EndGlobalSection
+EndGlobal

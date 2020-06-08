@@ -1,0 +1,6 @@
+C:\Users\flame\source\repos\PZ5\PZ5\obj\Debug\PZ5.csprojAssemblyReference.cache
+C:\Users\flame\source\repos\PZ5\PZ5\bin\Debug\PZ5.exe.config
+C:\Users\flame\source\repos\PZ5\PZ5\bin\Debug\PZ5.exe
+C:\Users\flame\source\repos\PZ5\PZ5\bin\Debug\PZ5.pdb
+C:\Users\flame\source\repos\PZ5\PZ5\obj\Debug\PZ5.exe
+C:\Users\flame\source\repos\PZ5\PZ5\obj\Debug\PZ5.pdb

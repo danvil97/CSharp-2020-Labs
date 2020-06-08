@@ -1,0 +1,11 @@
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\bin\Debug\netcoreapp3.1\PZ8_LINQ.exe
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\bin\Debug\netcoreapp3.1\PZ8_LINQ.deps.json
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\bin\Debug\netcoreapp3.1\PZ8_LINQ.runtimeconfig.json
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\bin\Debug\netcoreapp3.1\PZ8_LINQ.runtimeconfig.dev.json
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\bin\Debug\netcoreapp3.1\PZ8_LINQ.dll
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\bin\Debug\netcoreapp3.1\PZ8_LINQ.pdb
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\obj\Debug\netcoreapp3.1\PZ8_LINQ.csprojAssemblyReference.cache
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\obj\Debug\netcoreapp3.1\PZ8_LINQ.AssemblyInfoInputs.cache
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\obj\Debug\netcoreapp3.1\PZ8_LINQ.AssemblyInfo.cs
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\obj\Debug\netcoreapp3.1\PZ8_LINQ.dll
+C:\Users\flame\source\repos\PZ8\PZ8_LINQ\obj\Debug\netcoreapp3.1\PZ8_LINQ.pdb

@@ -1,0 +1,6 @@
+C:\Users\flame\source\repos\PZ4\PZ4\bin\Debug\PZ4.exe.config
+C:\Users\flame\source\repos\PZ4\PZ4\bin\Debug\PZ4.exe
+C:\Users\flame\source\repos\PZ4\PZ4\bin\Debug\PZ4.pdb
+C:\Users\flame\source\repos\PZ4\PZ4\obj\Debug\PZ4.csprojAssemblyReference.cache
+C:\Users\flame\source\repos\PZ4\PZ4\obj\Debug\PZ4.exe
+C:\Users\flame\source\repos\PZ4\PZ4\obj\Debug\PZ4.pdb

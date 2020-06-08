@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<payers>
+  <payer>
+    <surname>Вилимас</surname>
+    <phone>89211232312</phone>
+    <dateConvers>02.06.2020</dateConvers>
+    <rate>9</rate>
+    <discount>10</discount>
+    <timeStart>19:19:19</timeStart>
+    <timeFinish>20:20:20</timeFinish>
+  </payer>
+  <payer>
+    <surname>Маск</surname>
+    <phone>892112356712</phone>
+    <dateConvers>03.06.2020</dateConvers>
+    <rate>15</rate>
+    <discount>2</discount>
+    <timeStart>20:21:23</timeStart>
+    <timeFinish>22:23:11</timeFinish>
+  </payer>
+  <payer>
+    <surname>Граймс</surname>
+    <phone>89111830496</phone>
+    <dateConvers>04.06.2020</dateConvers>
+    <rate>5</rate>
+    <discount>1</discount>
+    <timeStart>10:10:10</timeStart>
+    <timeFinish>11:11:11</timeFinish>
+  </payer>
+</payers>

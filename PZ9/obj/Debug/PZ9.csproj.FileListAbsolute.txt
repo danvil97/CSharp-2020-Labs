@@ -1,0 +1,9 @@
+C:\Users\flame\source\repos\PZ9\bin\Debug\PZ9.exe.config
+C:\Users\flame\source\repos\PZ9\bin\Debug\PZ9.exe
+C:\Users\flame\source\repos\PZ9\bin\Debug\PZ9.pdb
+C:\Users\flame\source\repos\PZ9\obj\Debug\PZ9.csprojAssemblyReference.cache
+C:\Users\flame\source\repos\PZ9\obj\Debug\PZ9.Form1.resources
+C:\Users\flame\source\repos\PZ9\obj\Debug\PZ9.Properties.Resources.resources
+C:\Users\flame\source\repos\PZ9\obj\Debug\PZ9.csproj.GenerateResource.cache
+C:\Users\flame\source\repos\PZ9\obj\Debug\PZ9.exe
+C:\Users\flame\source\repos\PZ9\obj\Debug\PZ9.pdb

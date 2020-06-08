@@ -1,0 +1,9 @@
+C:\Users\flame\source\repos\PZ6\PZ6\bin\Debug\PZ6.exe.config
+C:\Users\flame\source\repos\PZ6\PZ6\bin\Debug\PZ6.exe
+C:\Users\flame\source\repos\PZ6\PZ6\bin\Debug\PZ6.pdb
+C:\Users\flame\source\repos\PZ6\PZ6\obj\Debug\PZ6.csprojAssemblyReference.cache
+C:\Users\flame\source\repos\PZ6\PZ6\obj\Debug\PZ6.Form1.resources
+C:\Users\flame\source\repos\PZ6\PZ6\obj\Debug\PZ6.Properties.Resources.resources
+C:\Users\flame\source\repos\PZ6\PZ6\obj\Debug\PZ6.csproj.GenerateResource.cache
+C:\Users\flame\source\repos\PZ6\PZ6\obj\Debug\PZ6.exe
+C:\Users\flame\source\repos\PZ6\PZ6\obj\Debug\PZ6.pdb
